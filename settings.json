@@ -1,0 +1,18 @@
+{
+  "anims": [
+    "car",
+    "plane",
+    "rocket",
+    "bullet",
+    "fire",
+    "paper",
+    "ufo",
+    "card"
+  ],
+  "mode": "random",
+  "one": "car",
+  "speed": "slow",
+  "v": 1795448975827,
+  "adminHash": "6071cfcf869f470ac68323918ff682dd180f1a9256eeb21b5287c57a510a85c5",
+  "turnUrl": ""
+}
